@@ -1,4 +1,4 @@
-
+Please Use latest version
 
 Meiosis_bar.ijm is the action bar of the MeiQUANT tool, an ImageJ macro used to analyse images of Meiosis prophase I chromosomes spreads. It uses:
 
